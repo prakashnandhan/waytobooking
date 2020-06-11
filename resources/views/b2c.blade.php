@@ -469,7 +469,7 @@
            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
               <div class="hovereffect">
                   <img class="img-responsive" src="{{asset('images/packages/orchestra.jpg')}}" alt="" style="width:350px;height:200px;">
-                  <h3>Orchestra</h3>
+                  <h3>Sangeet(Orchestra)</h3>
                   
                   <div class="overlay">
                       <h2>Sangeet(Orchestra)</h2>
